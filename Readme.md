@@ -1,6 +1,6 @@
 # ProtocolLib
 
-Certain tasks are impossible to perform with the standard Bukkit API, and may require
+Certain tasks are impossible to perform with the standard Bukkit API, and may require.
 working with and even modifying Minecraft directly. A common technique is to modify incoming
 and outgoing [packets](https://wiki.vg/Protocol), or inject custom packets into the
 stream. This is quite cumbersome to do, however, and most implementations will break
